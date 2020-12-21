@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SelakaKithmal&count_private=true&show_icons=true&include_all_commits=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SelakaKithmal&count_private=true&show_icons=true&include_all_commits=true)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelakaKithmal&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelakaKithmal&layout=compact&langs_count=10)
