@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/selaka-nanayakkara-7b0a4a56/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/profile.php?id=100002950452810" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.instagram.com/selaa.online/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://stackoverflow.com/users/4672460/selaka-nanayakkara" target="_blank"><img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196" alt="stackOverflow"></a>
+<a href="https://stackoverflow.com/users/4672460/selaka-nanayakkara" target="_blank"><img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196" alt="stackOverflow">stackOverflow</a>
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SelakaKithmal&count_private=true&show_icons=true&include_all_commits=true)
