@@ -1,14 +1,14 @@
-### Hi there 👋
+### Hello there 👋
 
-
-**SelakaKithmal/SelakaKithmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack Software Engineer who's highly experienced in designing and developing end-to-end enterprise scale SaaS applications focusing on modern web technologies and IOT technologies, Performance and Cloud Computing. I'm also a stackOverFlow contributor, and a mentor who actively helps the community to learn new things in technology.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Zone24x7
 - 🌱 I’m currently learning .Net Core 3.1
-- 👯 I’m looking to collaborate on any opensource projects going on out there
+- 👯 I’m looking to collaborate on any opensource projects going on out there..
 - 🤔 I’m looking for help with almost anything which I dont know.
+- <3  Extreame dota lover..
 - 💬 Ask me about anything..
 - 📫 How to reach me: 
 - Follow me up on: 
