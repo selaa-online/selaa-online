@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with almost anything which I dont know.
 - ❤  Extreame dota lover..
 - 💬 Ask me about anything..
-- 📫 Contributor - <a href="https://stackoverflow.com/users/4672460/selaka-nanayakkara" target="_blank"><img src="" alt="stackOverflow">stackoverflow</a>
+- 📫 Contributor - <a href="https://stackoverflow.com/users/4672460/selaka-nanayakkara" target="_blank"><img src="" alt="">stackoverflow</a>
 - Follow me up on: 
 <a href="https://www.linkedin.com/in/selaka-nanayakkara-7b0a4a56/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/profile.php?id=100002950452810" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
