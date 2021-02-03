@@ -4,14 +4,12 @@ I'm a Full stack developer who's highly experienced in designing and developing 
 
 Here are some ideas to get you started with me:
 
-- 🔭 I’m currently working on Zone24x7
-- 🌱 I’m currently learning .Net Core 3.1
-- 👯 I’m looking to collaborate on any opensource projects going on out there..
-- 🤔 I’m looking for help with almost anything which I dont know.
-- ❤  Extreame dota 2 lover..
-- 💬 Ask me about anything..
+- 🔭 Developer at Zone24x7
+- 🌱 Opensource enthusiast.
+- 👯 -QUESTION OPENS UP THE MIND, AN ANSWER CLOSES IT-
+- ❤  Extreame dota 2 lover. 
 - 📫 Contributor - <a href="https://stackoverflow.com/users/4672460/selaka-nanayakkara" target="_blank"><img src="" alt="">stackoverflow</a>
-- Follow me up on: 
+- Contact me up on: 
 <a href="https://www.linkedin.com/in/selaka-nanayakkara-7b0a4a56/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/profile.php?id=100002950452810" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.instagram.com/selaa.online/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
