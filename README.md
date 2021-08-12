@@ -3,7 +3,7 @@
 I'm a Full stack developer who's highly experienced in designing and developing end-to-end enterprise scale SaaS applications focusing on modern web technologies and IOT technologies, Performance and Cloud Computing. I'm also a stackOverFlow contributor, and a mentor who actively helps the community to learn new things in technology.
 
 Here are some ideas to get you started with me:
-- 🔭 Developer at Zone24x7
+- 🔭 Senior Developer at Zone24x7
 - 🌱 Opensource enthusiast.
 - ❤  Extreame Dota 2 addict. 
 - 📫 Contributor - <a href="https://stackoverflow.com/users/4672460/selaka-nanayakkara?tab=profile" target="_blank"><img src="" alt="">Stackoverflow</a>
