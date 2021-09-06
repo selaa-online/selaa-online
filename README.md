@@ -9,7 +9,6 @@ Here are some ideas to get you started with me:
 - 📫 Contributor - <a href="https://stackoverflow.com/users/4672460/selaka-nanayakkara?tab=profile" target="_blank"><img src="" alt="">Stackoverflow</a>
 - Contact me up on: 
 <a href="https://www.linkedin.com/in/selaka-nanayakkara-7b0a4a56/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://stackoverflow.com/users/4672460/selaka-nanayakkara?tab=profile" target="_blank"><img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a&style=flat-square&logo=linkedin&logoColor=white" alt="Stackoverflow"></a>
 <a href="https://www.facebook.com/profile.php?id=100002950452810" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.instagram.com/selaa.online/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <br>
