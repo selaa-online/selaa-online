@@ -15,6 +15,7 @@ Here are some ideas to get you started with me:
 
 
 [![Selaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=SelakaKithmal)](https://github.com/anuraghazra/github-readme-stats)
+![Selaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=SelakaKithmal&show_icons=true&theme=radical)
 
 ![Selaka's github stats](https://github-readme-stats.vercel.app/api?username=SelakaKithmal&count_private=true&show_icons=true&include_all_commits=true)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelakaKithmal&layout=compact)
