@@ -12,7 +12,8 @@ Here are some ideas to get you started with me:
 <a href="https://www.instagram.com/selaa.online/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 
+
+[![Selaka Nanayakkara's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4672460&theme=dark)](https://stackoverflow.com/users/4672460/selaka-nanayakkara)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelakaKithmal&theme=radical)<br>
 ![Selaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=SelakaKithmal&show_icons=true&theme=radical)
-[![Selaka Nanayakkara's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4672460&theme=dark)](https://stackoverflow.com/users/4672460/selaka-nanayakkara)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelakaKithmal&theme=radical)
 
