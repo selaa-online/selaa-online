@@ -11,7 +11,7 @@ Here are some ideas to get you started with me:
 <a href="https://www.facebook.com/profile.php?id=100002950452810" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.instagram.com/selaa.online/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40SelakaKithmal)](https://twitter.com/SelakaKithmal)
-
+![VisitorCount](https://profile-counter.glitch.me/{SelakaKithmal}/count.svg)
 
 
 [![Selaka Nanayakkara's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4672460&theme=dark)](https://stackoverflow.com/users/4672460/selaka-nanayakkara)
