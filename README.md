@@ -5,7 +5,7 @@ I'm a Full stack developer who's highly experienced in designing and developing 
 Here are some ideas to get you started with me:
 - 🔭 Full Stack Developer
 - 🌱 Opensource enthusiast.
-- Total Visits - <p>![VisitorCount](https://profile-counter.glitch.me/{SelakaKithmal}/count.svg)</p>
+- <p> Total Visits - ![VisitorCount](https://profile-counter.glitch.me/{SelakaKithmal}/count.svg)</p>
 - <p>Catch me up on:</p> 
 <a href="https://www.linkedin.com/in/selaka-nanayakkara-7b0a4a56/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <!--<a href="https://www.facebook.com/profile.php?id=100002950452810" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>-->
