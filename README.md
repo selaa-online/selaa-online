@@ -14,5 +14,5 @@ Here are some ideas to get you started with me:
      
 
 
-[![Selaka Nanayakkara's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4672460&theme=dark)](https://stackoverflow.com/users/4672460/selaka-nanayakkara)
+
 
