@@ -13,6 +13,7 @@ Here are some ideas to get you started with me:
 <!--[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40SelakaKithmal)](https://twitter.com/SelakaKithmal)-->
 
 
+<a href="https://stackexchange.com/users/4672460/selaka-nanayakkara"><img src="https://stackexchange.com/users/flair/2918545.png" width="208" height="58" alt="profile for Guru Stron on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Guru Stron on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
-[![Selaka Nanayakkara's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4672460&theme=dark)](https://stackoverflow.com/users/4672460/selaka-nanayakkara)
+<!--[![Selaka Nanayakkara's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4672460&theme=dark)](https://stackoverflow.com/users/4672460/selaka-nanayakkara)-->
 
