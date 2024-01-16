@@ -6,7 +6,7 @@ Here are some ideas to get you started with me:
 - 🔭 Full Stack Developer
 - 🌱 Opensource enthusiast.
 - Stackoverflow moderator/contributor
-- <img height="137px" src="https://stackoverflow-card.vercel.app/?userID=4672460&theme=solarizeddark"/>
+- <img height="137px" src="https://stackoverflow-card.vercel.app/?userID=4672460&theme=stackoverflowlight"/>
 - <p>Catch me up on:</p> 
 
      
