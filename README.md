@@ -6,7 +6,7 @@ Here are some ideas to get you started with me:
 - 🔭 Full Stack Developer
 - 🌱 Opensource enthusiast.
 - Stackoverflow moderator/contributor
-  <a href="https://stackoverflow.com/users/4672460/selaka-nanayakkara" target="_blank"><img src="https://github-readme-stackoverflow.vercel.app/?userID=4672460&theme=dark" alt="Stackoverflow"></a><br>
+- <img height="137px" src="https://stackoverflow-card.vercel.app/?userID=4672460&theme=stackoverflowlight"/>
 - <p>Catch me up on:</p> 
 
      
@@ -15,9 +15,7 @@ Here are some ideas to get you started with me:
      <a href="https://www.instagram.com/selaa.online/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
      
      
-<img height="137px"
-  src="https://stackoverflow-card.vercel.app/?userID=4672460&theme=dracula"
-/>
+
 
 
 
