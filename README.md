@@ -6,8 +6,9 @@ Here are some ideas to get you started with me:
 - 🔭 Full Stack Developer
 - 🌱 Opensource enthusiast.
 - Stackoverflow moderator/contributor
-
-  <img height="137px" src="https://stackoverflow-card.vercel.app/?userID=4672460&theme=stackoverflow-dark"/><br>
+  <img height="137px"
+  src="https://stackoverflow-card.vercel.app/?userID=4672460&theme=dracula"
+/><br>
   
 - GitHub Stats
  <div class='container'>
