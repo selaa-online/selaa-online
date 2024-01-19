@@ -7,7 +7,7 @@ Here are some ideas to get you started with me:
 - 🌱 Opensource enthusiast.
 - Stackoverflow moderator/contributor
   
-  [![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=4672460)](https://github.com/kurt-liao/so-stats)
+  [![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=4672460)](https://github.com/selaa-online/so-stats)
   
 - GitHub Stats
  <div class='container'>
