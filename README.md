@@ -6,7 +6,7 @@ Here are some ideas to get you started with me:
 - 🔭 Full Stack Developer
 - 🌱 Opensource enthusiast.
 - Stackoverflow moderator/contributor
-  ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=4672460)
+![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=4672460)
   
   
 - GitHub Stats
