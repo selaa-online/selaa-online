@@ -6,9 +6,7 @@ Here are some ideas to get you started with me:
 - 🔭 Full Stack Developer
 - 🌱 Opensource enthusiast.
 - Stackoverflow moderator/contributor
-![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=4672460)
-  
-  
+- ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=4672460) 
 - GitHub Stats
  <div class='container'>
 <img style="height: 30%; width: 30%;" class="img" src="https://github-readme-stats.vercel.app/api?username=selaa-online&show_icons=true&theme=blue-green" />
