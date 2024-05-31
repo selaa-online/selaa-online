@@ -6,8 +6,8 @@ Here are some ideas to get you started with me:
 - 🔭 Full Stack Developer
 - 🌱 Opensource enthusiast.
 - Stackoverflow moderator/contributor
+  ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=4672460)
   
-  [![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=4672460)](https://github.com/selaa-online/so-stats)
   
 - GitHub Stats
  <div class='container'>
