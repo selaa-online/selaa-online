@@ -14,7 +14,7 @@ Here are some ideas to get you started with me:
 <img style="height: 30%; width: 30%;" class="img" src="https://github-readme-stats.vercel.app/api?username=selaa-online&show_icons=true&theme=blue-green" />
 &nbsp;
 &nbsp;
-<img style="height: 20%; width: 20%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selaa-online&theme=blue-green&langs_count=8&layout=compact" /></div>
+<img style="height: 30%; width: 30%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selaa-online&theme=blue-green&langs_count=8&layout=compact" /></div>
 </div>
 
 - <p>Catch me up on:</p> 
